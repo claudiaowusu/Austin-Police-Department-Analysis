@@ -49,7 +49,11 @@ The dataset includes fields such as:
 Because the dataset is very large (~952,000+ rows), GitHub and Google Drive cannot preview it directly.  
 👉 [Download the full dataset from Google Drive](https://docs.google.com/spreadsheets/d/1T5P7AdgAY8ZogF2fdUqLIbO1KP7pj1fY/edit?usp=sharing&ouid=107555298152076854842&rtpof=true&sd=true)
 
+---
+## 🎤 Project Presentation
+[Download the PowerPoint presentation](https://docs.google.com/presentation/d/1SCcIV2shnd-F8VYGZAr0MWsk657Ytg2A/edit?usp=sharing&ouid=107555298152076854842&rtpof=true&sd=true)
 
+---
 📜 License
 
 This project is for educational and analytical purposes only.
