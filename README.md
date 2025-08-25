@@ -46,5 +46,7 @@ The dataset includes fields such as:
 
 ---
 
-cd apd-incident-analysis
-pip install -r requirements.txt
+📜 License
+
+This project is for educational and analytical purposes only.
+The data belongs to the Austin Police Department and is used here for research and insights.
