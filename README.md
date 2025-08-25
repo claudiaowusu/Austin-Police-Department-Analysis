@@ -45,6 +45,10 @@ The dataset includes fields such as:
 - **Jupyter Notebook**: Interactive analysis  
 
 ---
+## 📂 Full Dataset
+Because the dataset is very large (~952,000+ rows), GitHub and Google Drive cannot preview it directly.  
+👉 [Download the full dataset from Google Drive](https://docs.google.com/spreadsheets/d/1T5P7AdgAY8ZogF2fdUqLIbO1KP7pj1fY/edit?usp=sharing&ouid=107555298152076854842&rtpof=true&sd=true)
+
 
 📜 License
 
