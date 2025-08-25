@@ -50,3 +50,13 @@ The dataset includes fields such as:
 
 This project is for educational and analytical purposes only.
 The data belongs to the Austin Police Department and is used here for research and insights.
+
+### Sample of Dataset
+
+| Incident Number | Incident Type | Sector | Response Time | Mental Health Flag |
+|-----------------|---------------|--------|---------------|---------------------|
+| 12345           | Dispatched    | A      | 320           | Not Mental Health   |
+| 12346           | Dispatched    | B      | 250           | Mental Health       |
+| 12347           | Dispatched    | A      | 410           | Not Mental Health   |
+| 12348           | Dispatched    | C      | 180           | Mental Health       |
+| 12349           | Dispatched    | B      | 290           | Not Mental Health   |
